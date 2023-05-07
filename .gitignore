@@ -34,7 +34,7 @@ yarn-error.log*
 .vercel
 
 #mk1
-.env
+.env*
 
 # editors
 .vscode
