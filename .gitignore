@@ -33,6 +33,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+#mk1
+.env
+
 # editors
 .vscode
 
