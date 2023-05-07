@@ -78,7 +78,7 @@ const SignIn = () => {
           onClick={() => nhost.auth.signIn({ provider: 'github' })}
         >
           <GitHub />
-          <span className="ml-2">Continue with GitHub mk1</span>
+          <span className="ml-2">Continue with GitHub mk1_2</span>
         </Button>
       </div>
     </div>
